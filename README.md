@@ -1,14 +1,23 @@
-### Hi there 👋
+# Hi, I'm Naveena Jakka 👋
+Turning messy data into smart predictions 🤖 | Data Science & ML enthusiast | Always training, always learning
 
-<!--
-**NaveenaJakka/NaveenaJakka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist | Data Analyst** in Hyderabad, India
 
-Here are some ideas to get you started:
+I turn raw data into insights and predictions. I have 2 years of professional experience and I'm focused on data analysis and data science projects, from cleaning and exploring data to building and evaluating machine learning models.
 
-- 🔭 I’m currently pursuing master's in computer applications
-- 🌱 I’m currently learning machine learning
-- 👯 I’m looking to collaborate on linkedin
-- 📫 How to reach me: linkedin
-- 😄 Pronouns: she/her
+## 🔭 What I'm Working On
+- Building end-to-end data science projects for my portfolio
+- Learning Power BI for dashboards and business reporting
+- Going deeper into machine learning, including clustering and association rules
 
 
+## 🛠️ Tech Stack
+**Languages:** Python, SQL
+**Libraries:** pandas, NumPy, scikit-learn, matplotlib, seaborn
+**Tools:** Jupyter Notebook, Excel, Power BI, Git and GitHub
+
+## 📫 Connect With Me
+- LinkedIn: [your link]
+- Email: [your email]
+
+*Open to Data Analyst and Data Scientist opportunities in Hyderabad.*
