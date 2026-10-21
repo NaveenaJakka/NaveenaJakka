@@ -17,7 +17,7 @@ I turn raw data into insights and predictions. I have 2 years of professional ex
 **Tools:** Jupyter Notebook, Excel, Power BI, Git and GitHub
 
 ## 📫 Connect With Me
-- LinkedIn: [your link]
-- Email: [your email]
+- LinkedIn: www.linkedin.com/in/k-naveena-jakka-481905201
+- Email: naveenajakka990@gmail.com
 
 *Open to Data Analyst and Data Scientist opportunities in Hyderabad.*
